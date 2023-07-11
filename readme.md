@@ -1,4 +1,4 @@
-# Title
+# ALP3 Algorithmen Datenstrukturen und Datenabstraktion
 
 The purpose of this repository is to serve as data storage and to present the completed work of the course ALP 3 (Algorithmen, Datenstrukturen und Datenabstraktion) at Freie Universität Berlin.
 
