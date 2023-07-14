@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -46,3 +47,6 @@ The purpose of this repository is to serve as data storage and to present the co
 
 * Thore Brehmer - solved all tasks (u1-u14)
 * David Lee - handed in task-sheets
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
